@@ -1,5 +1,5 @@
 # oc20
 ## informatique
-* je ne sais pas quoi faire
+* c'est dur 
 
 ![](img/totally-spies-fin-une.jpg)

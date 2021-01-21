@@ -1,5 +1,5 @@
 # oc20
-##informatique
+## informatique
 * je ne sais pas quoi faire
 
 

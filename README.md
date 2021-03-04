@@ -23,5 +23,6 @@ permettent d'insérer des formes géométrique:
 pour changer épaisseur -> alt:
 - alt+1 pour ligne 1
 - alt+0 pour figure remplis
-- alt+2 pour ligne d'épaisseur 2
+- alt+2 pour ligne d'épaisseur 2 
+- fin
 

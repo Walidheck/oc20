@@ -2,27 +2,21 @@
 
 ## Introduction
 
-- éditeur graphique
-- permet de manipuler des objets (rectangles, cercles, lignes, images)
-- permet de choisir des couleurs et epaisseurs
-- permet de créer, déplacer, supprimer des objets
-- permet de sauvgarder/changer un dessin
+Editeur graphique permettant de créer et manipuler librement des rectangles ainsi qu'une image. 
 
 ## Description
-Decrivez ce que votre éditeur peu faire
+- permet de créer des rectangles
+- permet de les supprimer
+- permet de modifié la forme du dernier rectangle
+- permet de modifié couleur et epaisseur du dernier rectangle
+- permet de manipuler une image
 
 ## Interface
-capture d'écran
+Fond de couleur
 
 ## Raccourcis claviers
-permettent d'insérer des formes géométrique:
-- R rect
-- L ligne
-- C cercle
-
-pour changer épaisseur -> alt:
-- alt+1 pour ligne 1
-- alt+0 pour figure remplis
-- alt+2 pour ligne d'épaisseur 2 
-- fin
-hdhshs
+Q à P : couleur rectangle
+1 à 4 : épaisseur rectangle
+Tab : modifier rectangle / raccourci rectangle
+Backspace : supprimer dernier rectangle
+m - n : bouger - pas bouger image

@@ -15,8 +15,8 @@ Editeur graphique permettant de créer et manipuler librement des rectangles ain
 Fond de couleur
 
 ## Raccourcis claviers
--Q à P : couleur rectangle
--1 à 4 : épaisseur rectangle
--Tab : modifier rectangle / raccourci rectangle
--Backspace : supprimer dernier rectangle
--m - n : bouger - pas bouger image
+- Q à P : couleur rectangle
+- 1 à 4 : épaisseur rectangle
+- Tab : modifier rectangle / raccourci rectangle
+- Backspace : supprimer dernier rectangle
+- m - n : bouger - pas bouger image

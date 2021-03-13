@@ -25,4 +25,4 @@ pour changer épaisseur -> alt:
 - alt+0 pour figure remplis
 - alt+2 pour ligne d'épaisseur 2 
 - fin
-
+hdhshs

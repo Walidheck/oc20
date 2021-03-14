@@ -10,6 +10,7 @@ Editeur graphique permettant de créer et manipuler librement des rectangles ain
 - permet de modifié la forme du dernier rectangle
 - permet de modifié couleur et epaisseur du dernier rectangle
 - permet de manipuler une image
+- affiche du texte
 
 ## Interface
 Fond de couleur

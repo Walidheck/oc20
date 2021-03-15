@@ -36,11 +36,11 @@ K_4: insérer image
 K_l: modifier image
 
 ## Conclusion:
-Programme réalisé avec certaines difficultés, mais objectif considéré comme atteint car le programme 
+- Programme réalisé avec certaines difficultés, mais objectif considéré comme atteint car le programme 
 permet un ensemble de commandes relativement élevés. 
-Nous aurions aimé pouvoir modifier ou déplacer les objets en les sélectionnant, sans forcément qu'il
+- Nous aurions aimé pouvoir modifier ou déplacer les objets en les sélectionnant, sans forcément qu'il
 s'agisse du dernier objet de la liste. Nous ne l'avons pas fait par manque de temps d'abord, ensuite 
 car nous considérions que le programme était suffisamment complexe compte tenu des attentes.
-Difficulté principale: créer des classes d'objet et leurs attribuer des méthodes (self).
-MERCI!
+- Difficulté principale: créer des classes d'objet et leurs attribuer des méthodes (self).
+- MERCI!
 

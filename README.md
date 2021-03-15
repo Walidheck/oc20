@@ -1,5 +1,5 @@
 # oc20 - projet Editor
-- Jean Paulsen et Walid
+- Jean Paulsen et Walid Heckendorn 3M7
 
 ## Introduction
 

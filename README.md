@@ -34,7 +34,7 @@ K_3: mode ellipse
 K_4: insérer image
 K_l: modifier image
 
-##Conclusion
+## Conclusion:
 Programme réalisé avec certaines difficultés, mais objectif considéré comme atteint car le programme 
 permet un ensemble de commandes relativement élevés. 
 Nous aurions aimé pouvoir modifier ou déplacer les objets en les sélectionnant, sans forcément qu'il

@@ -15,7 +15,7 @@ L'editeur permet différente manoeuvre tel que globalement:
 - supprimer les objets créés ou en ajouter.
 - changer l'image et/ou en ajouter d'autre.
 - modifier la couleur du fond.
-
+![Below sleeping surface](img/paysage.jpeg)
 ## Interface
 Thonny 
 

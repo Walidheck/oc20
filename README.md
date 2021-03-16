@@ -32,8 +32,8 @@ K_2: mode rectangle
 ### ellipse:
 K_3: mode ellipse
 ### image:
-K_4: insérer image
-K_l: modifier image
+- K_4: insérer image
+- K_l: modifier image
 
 ## Conclusion:
 - Programme réalisé avec certaines difficultés, mais objectif considéré comme atteint car le programme 

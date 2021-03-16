@@ -17,6 +17,8 @@ L'editeur permet différente manoeuvre tel que globalement:
 - modifier la couleur du fond.
 
 - Voici quelques exemples:
+![Below sleeping surface](img/redcar.jpeg)
+![Below sleeping surface](img/savanne.jpeg)
 ![Below sleeping surface](img/paysage.jpeg)
 ## Interface
 Thonny 
@@ -36,6 +38,8 @@ Thonny
 ### image:
 - K_4: insérer image
 - K_l: modifier image
+- K_m: bouger l'image
+- K_n: arrête de bouger l'image
 
 ## Conclusion:
 - Programme réalisé avec certaines difficultés, mais objectif considéré comme atteint car le programme 

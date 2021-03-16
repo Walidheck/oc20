@@ -15,25 +15,30 @@ L'editeur permet différente manoeuvre tel que globalement:
 - supprimer les objets créés ou en ajouter.
 - changer l'image et/ou en ajouter d'autre.
 - modifier la couleur du fond.
+![Below sleeping surface](img/redcar.jpeg)
 ![Below sleeping surface](img/paysage.jpeg)
+![Below sleeping surface](img/savanne.jpeg)
 ## Interface
 Thonny 
 
 ## Raccourcis claviers
-- K_(a, s, b): épaiseur forme
-- K_(Q;i) : couleur forme
+- K_(a, s, d): épaiseur forme
+- K_(Q;i) : couleur objet
 - K_(8, 9, 0): couleur screen
 - K_(1;4): selection mode
+
 ### polygone: 
 - K_1: mode polygone
 - K_BACKSPACE: supprimer point polygone
 ### rectangle:
-K_2: mode rectangle
+- K_2: mode rectangle
 ### ellipse:
-K_3: mode ellipse
+- K_3: mode ellipse
 ### image:
 - K_4: insérer image
 - K_l: modifier image
+- K_m: bouger l'imgae
+- K_n: arrête de bouger l'image
 
 ## Conclusion:
 - Programme réalisé avec certaines difficultés, mais objectif considéré comme atteint car le programme 

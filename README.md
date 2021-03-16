@@ -28,6 +28,7 @@ Thonny
 - K_(Q;i) : couleur forme
 - K_(8, 9, 0): couleur screen
 - K_(1;4): selection mode
+- K_TAB: supprime la dernière forme
 ### polygone: 
 - K_1: mode polygone
 - K_BACKSPACE: supprimer point polygone

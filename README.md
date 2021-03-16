@@ -21,7 +21,7 @@ Thonny
 
 ## Raccourcis claviers
 - K_(a, s, b): épaiseur forme
-- K_(Q;i) : couleur objet
+- K_(Q;i) : couleur forme
 - K_(8, 9, 0): couleur screen
 - K_(1;4): selection mode
 ### polygone: 

@@ -4,7 +4,7 @@ Le jeu que nous avons produit consiste à resister face aux astronautes venus no
 Ce jeu contient différents niveaux, il faut d'abord tuer tous les astronautes pour ensuite affronter les météorites. une fois terminer, le niveau suivant est activé et la difficulté est augmenté
 
 ## exemple
-![Below sleeping surface](img/IMG_6404.JPEG)
+![Below sleeping surface](img/IMG_6404.JPG)
 
 
 Pour faire fonctionner notre jeu, nous avons utilisé des classes dit héréditaire

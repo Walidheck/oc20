@@ -13,7 +13,7 @@ L'alien perd des points de vie lorsqu'il rentre en contact avec l'astronautes.
 L'alien a lui seul est une classe Player, qui a hérédité de sprite. Il y a plusieurs definition dans cette classe. 
 
 ![Below sleeping surface](img/IMG_6406.JPG)
-l'alien est confronter a une pluit de météorites.
+l'alien est confronter a une pluit de météorites. Ces derniers ont leur propre classe
 
 Pour faire fonctionner notre jeu, nous avons utilisé des classes dites héréditaires
 

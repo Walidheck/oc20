@@ -9,10 +9,18 @@ Ce jeu contient différents niveaux, il faut d'abord tuer tous les astronautes p
 Ici, il s'agit du menu du jeu
 
 ![Below sleeping surface](img/IMG_6405.JPG)
-l'alien perd des pointnde vie lorsqu'il rentre en contact avec l'astronautes.
+L'alien perd des points de vie lorsqu'il rentre en contact avec l'astronautes.
+L'alien a lui seul est une classe Player, qui a hérédité de sprite. Il y a plusieurs definition dans cette classe. 
 
 ![Below sleeping surface](img/IMG_6406.JPG)
 l'alien est confronter a une pluit de météorites.
 
 Pour faire fonctionner notre jeu, nous avons utilisé des classes dites héréditaires
 
+
+
+
+Source : pygame.org
+ #          youtube.com/Collisons in Pygame
+ #          youtube.com/Pygame in 90 Minutes - For beginners
+ #          youtube.com/Python Final Fantasy Style RPG Battle Beginner Tutorial in Pygame

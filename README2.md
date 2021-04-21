@@ -10,10 +10,10 @@ Ici, il s'agit du menu du jeu
 
 ![Below sleeping surface](img/IMG_6405.JPG)
 L'alien perd des points de vie lorsqu'il rentre en contact avec l'astronautes.
-L'alien a lui seul est une classe Player, qui a hérédité de sprite. Il y a plusieurs definition dans cette classe. 
+L'alien est géré par une classe Player, qui hérite de sprite. Cette classe est composé de plusieur méthode tel que, par exemple, move_r/l qui gère les déplacements. 
 
 ![Below sleeping surface](img/IMG_6406.JPG)
-l'alien est confronter a une pluit de météorites. Ces derniers ont leur propre classe
+l'alien est confronter a une pluit de météorites. Ces dernieres sont gérer par une classe Comet. L'événement de la chute d'asteroid est gérer par la classe CometFallEvent. Cette classe enclanche la chute de météorite quand certain critère sont rempli, tel que la bar d'événement en bas de l'écran. Cette dernière doit être pleine pour enclencher l'événement.
 
 Pour faire fonctionner notre jeu, nous avons utilisé des classes dites héréditaires
 

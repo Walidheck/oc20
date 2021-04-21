@@ -28,6 +28,6 @@ Pour faire fonctionner notre jeu, nous avons utilisé des classes dites hérédi
 
 
 Source : pygame.org
- #          youtube.com/Collisons in Pygame
- #          youtube.com/Pygame in 90 Minutes - For beginners
- #          youtube.com/Python Final Fantasy Style RPG Battle Beginner Tutorial in Pygame
+youtube.com/Collisons in Pygame
+youtube.com/Pygame in 90 Minutes - For beginners
+youtube.com/Python Final Fantasy Style RPG Battle Beginner Tutorial in Pygame

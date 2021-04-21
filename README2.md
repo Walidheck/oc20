@@ -11,7 +11,8 @@ Ici, il s'agit du menu du jeu. Lorsque le START est enclencher, le "while runnin
 
 ![Below sleeping surface](img/IMG_6405.JPG)
 L'alien, incarné par le joueur, perd des points de vie lorsqu'il rentre en contact avec les astronautes. Il peux les éliminer en tirant des projectiles, remporter des points.
-L'alien est géré par une classe Player, qui hérite de sprite. Cette classe est composé de plusieur méthode tel que, par exemple, move_r/l qui gère les déplacements. 
+
+L'alien est géré par une classe Player, qui hérite de sprite. Cette classe est composé de plusieur méthode tel que, par exemple, _init_ qui défini la vitesse, les pv etc du joueur, move_r/l qui gère les déplacements. 
 L'astronaute est gérer par sa propre classe Astro. Cette classe gère les dégat, la vitesse etc de l'astronaute mais aussi les collisions propre à ce dernier et les dégat qu'elle génère sur l'alien.
 Les astronautes spawn par nombre de deux à des vitesse et position. 
 L'astronaute est gérer par sa propre classe Astro. Cette classe gère les dégat, la vitesse etc de l'astronaute mais aussi les collisions propre à ce dernier et les dégat qu'elle génère sur l'alien 

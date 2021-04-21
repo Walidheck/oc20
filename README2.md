@@ -5,7 +5,7 @@ Pour échapper aux météorites, il faut simplement les ésquiver en allant de d
 
 Ce jeu contient différents niveaux, il faut d'abord tuer tous les astronautes pour ensuite affronter les météorites et ainsi de suite. le but finale de ce jeu est de faire le meilleur score possible. Chaque astronaute tué rapporte 10 points.
 
-## exemple
+## Explication globale de la structure du jeu
 ![Below sleeping surface](img/IMG_6404.JPG)
 Ici, il s'agit du menu du jeu. Lorsque le START est enclencher, le "while running" se met en marche pour lancer le jeu. Le jeu est gérer par la class Game, la méthode update actualise et applique les éléments. 
 

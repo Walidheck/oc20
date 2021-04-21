@@ -6,7 +6,7 @@ Ce jeu contient différents niveaux, il faut d'abord tuer tous les astronautes p
 
 ## exemple
 ![Below sleeping surface](img/IMG_6404.JPG)
-Ici, il s'agit du menu du jeu
+Ici, il s'agit du menu du jeu. Lorsque le START est enclencher, la class GAME/update et le "while running" se mette en marche pour générer le jeu.
 
 ![Below sleeping surface](img/IMG_6405.JPG)
 L'alien perd des points de vie lorsqu'il rentre en contact avec l'astronautes.

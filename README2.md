@@ -9,15 +9,20 @@ Ce jeu contient différents niveaux, il faut d'abord tuer tous les astronautes p
 Ici, il s'agit du menu du jeu. Lorsque le START est enclencher, la class GAME/update et le "while running" se mette en marche pour générer le jeu.
 
 ![Below sleeping surface](img/IMG_6405.JPG)
-L'alien perd des points de vie lorsqu'il rentre en contact avec l'astronautes.
+L'alien, incarné par le joueur, perd des points de vie lorsqu'il rentre en contact avec les astronautes. Il peux les éliminer en tirant des projectiles, remporter des points.
 L'alien est géré par une classe Player, qui hérite de sprite. Cette classe est composé de plusieur méthode tel que, par exemple, move_r/l qui gère les déplacements. 
 L'astronaute est gérer par sa propre classe Astro. Cette classe gère les dégat, la vitesse etc de l'astronaute mais aussi les collisions propre à ce dernier et les dégat qu'elle génère sur l'alien.
+Les astronautes spawn par nombre de deux à des vitesse et position. 
+L'astronaute est gérer par sa propre classe Astro. Cette classe gère les dégat, la vitesse etc de l'astronaute mais aussi les collisions propre à ce dernier et les dégat qu'elle génère sur l'alien 
+Les astronautes aléatoirement spawn par deux dans un random.randint près-défini. Ceci permet d'éviter que les astronautes se superposent. Lorsqu'un astronaute est éliminé, il respawn et le joueur gagne 10 points de score.
+
+L'alien autant que les astronautes ont une bar de point de vie qui permet de connaitre leur pv par rapport à leur pv maximum. Cette dernière est gérer par la "méthode update_pv_bar" qui se situ dans la classe Astro et Player. Elle superpose deux rectangle, la longueur de celui du fond est égal au maximum de pv, la longueur du rectangle rouge est égal aux pv actuelles du player.
 
 ![Below sleeping surface](img/IMG_6406.JPG)
-l'alien est confronter a une pluit de météorites. Ces dernieres sont gérer par une classe Comet. L'événement de la chute d'asteroid est gérer par la classe CometFallEvent. Cette classe enclanche la chute de météorite quand certain critère sont rempli, tel que la bar d'événement en bas de l'écran. Cette dernière doit être pleine pour enclencher l'événement.
-Les projectile tiré par l'alien, qui permette d'éliminer les astronaute sont gérés par une class Projectiles. Cette dernière gère la vitesse, la rotation et les collisions des projectiles.
+l'alien est confronté a une pluit de météorites. Ces dernieres sont gérer par une classe Comet. L'événement de la chute d'asteroid est gérer par la classe CometFallEvent. Cette classe enclanche la chute de météorite quand certain critère sont rempli, tel que la bar d'événement en bas de l'écran. Cette dernière doit être pleine pour enclencher l'événement.
+Les projectiles tirés par l'alien, visible sur la capture, sont gérés par une class Projectiles. Cette dernière gère la vitesse, la rotation et les collisions des projectiles.
 
-Pour faire fonctionner notre jeu, nous avons utilisé des classes dites héréditaires
+Pour faire fonctionner notre jeu, nous avons utilisé des classes dites héréditaires. La plupart des classes hérite de "Game", qui est la classe qui gère le jeu, la mort du joueur, les collisions, les spawn etc. Cette classe permet aussi d'appliquer les éléments, de les actualiser au début de chaque partie, dans la méthode "update".
 
 
 

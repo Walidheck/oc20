@@ -22,6 +22,9 @@ L'alien autant que les astronautes ont une bar de point de vie qui permet de con
 l'alien est confronté a une pluit de météorites. Ces dernieres sont gérer par une classe Comet. L'événement de la chute d'asteroid est gérer par la classe CometFallEvent. Cette classe enclanche la chute de météorite quand certain critère sont rempli, tel que la bar d'événement en bas de l'écran. Cette dernière doit être pleine pour enclencher l'événement.
 Les projectiles tirés par l'alien, visible sur la capture, sont gérés par une class Projectiles. Cette dernière gère la vitesse, la rotation et les collisions des projectiles.
 
+Certain événement du jeu sont associé à des sons tel que les tirs, la chute des comets, la mort du joueur et le start du jeu.
+Ces sons ont leurs propre class SoundManager qui les gère et les associe à une action du jeu.
+
 Pour faire fonctionner notre jeu, nous avons utilisé des classes dites héréditaires. La plupart des classes hérite de "Game", qui est la classe qui gère le jeu, la mort du joueur, les collisions, les spawn etc. Cette classe permet aussi d'appliquer les éléments, de les actualiser au début de chaque partie, dans la méthode "update".
 
 

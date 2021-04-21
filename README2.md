@@ -3,7 +3,7 @@
 Le jeu que nous avons produit, "Space Invasion" consiste à resister face aux astronautes venus pour envahir l'espace et à une pluit de météorites. Afin de se défendre, en tant qu'alien, nous avons le pouvoir de tirer des projectiles sur les envahisseurs avec la touche espace. 
 Pour échapper aux météorites, il faut simplement les ésquiver en allant de droite à gauche, grace aux flèches pressent sur le clavier.
 
-Ce jeu contient différents niveaux, il faut d'abord tuer tous les astronautes pour ensuite affronter les météorites. Une fois terminer, le niveau suivant est activé et la difficulté est augmenté. le but finale de ce jeu est de faire le meilleur score possible. Chaque astronaute tué rapporte 10 points.
+Ce jeu contient différents niveaux, il faut d'abord tuer tous les astronautes pour ensuite affronter les météorites et ainsi de suite. le but finale de ce jeu est de faire le meilleur score possible. Chaque astronaute tué rapporte 10 points.
 
 ## exemple
 ![Below sleeping surface](img/IMG_6404.JPG)

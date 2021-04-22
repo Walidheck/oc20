@@ -1,6 +1,6 @@
 # Space Invasion game presentation
 
-fichier : GAME/GAME.py + assets
+fichier :  - GAME/GAME.py + assets
 
 Le jeu que nous avons produit, "Space Invasion" consiste à resister face aux astronautes venus pour envahir l'espace et à une pluit de météorites. Afin de se défendre, en tant qu'alien, nous avons le pouvoir de tirer des projectiles sur les envahisseurs avec la touche espace. 
 Pour échapper aux météorites, il faut simplement les ésquiver en allant de droite à gauche, grace aux flèches pressent sur le clavier.
@@ -8,10 +8,10 @@ Pour échapper aux météorites, il faut simplement les ésquiver en allant de d
 Ce jeu contient différents niveaux, il faut d'abord tuer tous les astronautes pour ensuite affronter les météorites et ainsi de suite. le but finale de ce jeu est de faire le meilleur score possible. Chaque astronaute tué rapporte 10 points.
 
 ## Explication globale de la structure du jeu
-![Below sleeping surface](img/IMG_6404.JPG)
+![Below sleeping surface](Editeur_space_invasion/IMG_6404.JPG)
 Ici, il s'agit du menu du jeu. Lorsque le START est enclencher, le "while running" se met en marche pour lancer le jeu. Le jeu est gérer par la class Game, la méthode update actualise et applique les éléments. 
 
-![Below sleeping surface](img/IMG_6405.JPG)
+![Below sleeping surface](Editeur_space_invasion/IMG_6405.JPG)
 L'alien, incarné par le joueur, perd des points de vie lorsqu'il rentre en contact avec les astronautes. Il peux les éliminer en tirant des projectiles, remporter des points.
 
 L'alien est géré par une classe Player, qui hérite de sprite. Cette classe est composé de plusieur méthode tel que, par exemple, _init_ qui défini la vitesse, les pv etc du joueur, move_r/l qui gère les déplacements. 
@@ -21,7 +21,7 @@ Les astronautes spawn aléatoirement par deux dans un random.randint près-défi
 
 L'alien autant que les astronautes ont une bar de point de vie qui permet de connaitre leurs pv actuels par rapport à leur pv maximum. Cette dernière est gérer par la "méthode update_pv_bar" qui se situe dans la classe Astro et Player. Elle superpose deux rectangles, la longueur de celui du fond est égal au maximum de pv, la longueur du rectangle rouge est égal aux pv actuelles du player.
 
-![Below sleeping surface](img/IMG_6406.JPG)
+![Below sleeping surface](Editeur_space_invasion/IMG_6406.JPG)
 l'alien est confronté a une pluit de météorites. Ces dernieres sont gérer par une classe Comet qui défini la vitesse, le nombre et les dégats des météorites. L'événement de la chute d'asteroid est gérer par la classe CometFallEvent. Cette classe enclanche la chute de météorite quand certain critère sont remplis, tel que la bar d'événement en bas de l'écran. Cette dernière doit être pleine pour enclencher l'événement CometFall.
 
 Les projectiles tirés par l'alien, visible sur la capture, sont gérés par une class Projectiles. Cette dernière gère la vitesse, la rotation et les collisions des projectiles.

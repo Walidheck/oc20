@@ -1,6 +1,6 @@
 # Space Invasion game presentation
 
-fichier : JeanPaulsen26 - GAME/GAME.py + assets
+fichier :  - GAME/GAME.py + assets
 
 Le jeu que nous avons produit, "Space Invasion" consiste à resister face aux astronautes venus pour envahir l'espace et à une pluit de météorites. Afin de se défendre, en tant qu'alien, nous avons le pouvoir de tirer des projectiles sur les envahisseurs avec la touche espace. 
 Pour échapper aux météorites, il faut simplement les ésquiver en allant de droite à gauche, grace aux flèches pressent sur le clavier.
@@ -35,7 +35,7 @@ Pour faire fonctionner notre jeu, nous avons utilisé des classes dites hérédi
 Nous avons essayer de vous présenter le jeu de manière à la fois globale et précise,
 MERCI !
 
-
+PS: lien draw.io: https://app.diagrams.net/#HWalidheck%2Foc20%2Fmain%2FUntitled%20Diagram.drawio
 
 Source : 
 * pygame.org

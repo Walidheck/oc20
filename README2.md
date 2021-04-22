@@ -27,7 +27,7 @@ l'alien est confronté a une pluit de météorites. Ces dernieres sont gérer pa
 Les projectiles tirés par l'alien, visible sur la capture, sont gérés par une class Projectiles. Cette dernière gère la vitesse, la rotation et les collisions des projectiles.
 
 Certain événement du jeu sont associé à des sons tel que les tirs, la chute des comets, la mort du joueur et le start du jeu.
-Ces sons ont leurs propre class SoundManager qui les gère et les associe à une action du jeu.
+Ces sons ont leurs propre class Sound qui les gère et les associe à une action du jeu.
 
 Pour faire fonctionner notre jeu, nous avons utilisé des classes dites héréditaires. La plupart des classes hérite de "Game", qui est la classe qui gère le jeu. La mort du joueur, le déplacements des monstres, les collisions, les spawn etc. Cette classe permet aussi d'appliquer les éléments, de les actualiser au début de chaque partie, dans la méthode "update".
 

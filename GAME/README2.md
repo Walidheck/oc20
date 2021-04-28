@@ -33,7 +33,7 @@ Pour faire fonctionner notre jeu, nous avons utilisé des classes dites hérédi
 
 Afin de mieux comprendre, voici, ci-dessous un schema de classe avec toutes les classes et leurs attributs, ainsi que leur méthode.
 
-![Below sleeping surface](IMG/Untitled Diagram.png)
+![Below sleeping surface](IMG/diagram.png)
 
 Nous avons essayer de vous présenter le jeu de manière à la fois globale et précise,
 MERCI !

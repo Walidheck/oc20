@@ -31,7 +31,8 @@ Ces sons ont leurs propre class Sound qui les gère et les associe à une action
 
 Pour faire fonctionner notre jeu, nous avons utilisé des classes dites héréditaires. La plupart des classes hérite de "Game", qui est la classe qui gère le jeu. La mort du joueur, le déplacements des monstres, les collisions, les spawn etc. Cette classe permet aussi d'appliquer les éléments, de les actualiser au début de chaque partie, dans la méthode "update".
 
-
+Afin de mieux comprendre, voici, ci-dessous un schema de classe avec toutes les classes et leurs attributs, ainsi que leur méthode.
+![Below sleeping surface]()
 Nous avons essayer de vous présenter le jeu de manière à la fois globale et précise,
 MERCI !
 

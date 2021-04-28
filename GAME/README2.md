@@ -5,7 +5,7 @@ fichier :  GAME/GAME.py + assets
 Le jeu que nous avons produit, "Space Invasion" consiste à resister face aux astronautes venus pour envahir l'espace et à une pluit de météorites. Afin de se défendre, en tant qu'alien, nous avons le pouvoir de tirer des projectiles sur les envahisseurs avec la touche espace. 
 Pour échapper aux météorites, il faut simplement les ésquiver en allant de droite à gauche, grace aux flèches pressent sur le clavier.
 
-Ce jeu contient différents niveaux, il faut d'abord tuer tous les astronautes pour ensuite affronter les météorites et ainsi de suite. le but finale de ce jeu est de faire le meilleur score possible. Chaque astronaute tué rapporte 10 points.
+Ce jeu contient des niveaux, il faut d'abord tuer tous les astronautes pour ensuite affronter les météorites et ainsi de suite. le but finale de ce jeu est de faire le meilleur score possible. Chaque astronaute tué rapporte 10 points.
 
 ## Explication globale de la structure du jeu
 ![Below sleeping surface](IMG/IMG_6404.JPG)
@@ -38,7 +38,7 @@ Afin de mieux comprendre, voici, ci-dessous un schema de classe avec toutes les 
 Nous avons essayer de vous présenter le jeu de manière à la fois globale et précise,
 MERCI !
 
-PS: lien draw.io: https://app.diagrams.net/#HWalidheck%2Foc20%2Fmain%2FUntitled%20Diagram.drawio
+
 
 Source : 
 * pygame.org

@@ -35,6 +35,7 @@ Afin de mieux comprendre, voici, ci-dessous un schema de classe avec toutes les 
 
 ![Below sleeping surface](IMG/diagram.png)
 
+
 Nous avons essayer de vous présenter le jeu de manière à la fois globale et précise,
 MERCI !
 

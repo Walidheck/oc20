@@ -9,6 +9,6 @@ Le dossier TUTORIAL contient la théorie de base concernant l'éditeur.
 
 Merci ! 
 
-![Below sleeping surface](assets/p3.png)
+![Below sleeping surface](GAME/assets/p3.png)
 
 

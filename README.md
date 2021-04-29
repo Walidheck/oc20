@@ -7,8 +7,8 @@ Il s'agit de programmation en language python sur la plateforme python. Le jeu e
 trouve dans leur dossier respectif ainsi que leur explication et assets.
 Le dossier TUTORIAL contient la théorie de base concernant l'éditeur.
 
-Merci ! 
 
   ![Below sleeping surface](GAME/assets/p3.png)
 
 
+Merci ! 

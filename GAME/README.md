@@ -60,3 +60,10 @@ https://www.flaticon.com
 
 ### Sons/musiques
 http://www.universal-soundbank.com
+
+
+
+
+Nous avons essayer de vous présenter le jeu de manière à la fois globale et précise,
+MERCI !
+

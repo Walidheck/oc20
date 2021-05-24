@@ -51,8 +51,8 @@ MERCI !
 * pygame.org
 
 ### Videos
-* youtube.com/Collisons in Pygame
-* youtube.com/Pygame in 90 Minutes - For beginners
+* https://www.youtube.com/watch?v=1aGuhUFwvXA in Pygame
+* https://www.youtube.com/watch?v=jO6qQDNa2UY in 90 Minutes - For beginners
 * youtube.com/Python Final Fantasy Style RPG Battle Beginner Tutorial in Pygame
 
 ### Images (png)

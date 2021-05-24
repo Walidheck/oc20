@@ -53,11 +53,13 @@ MERCI !
 
 ### site
 * pygame.org
+* youtube.com
 
 ### Videos
 * https://www.youtube.com/watch?v=1aGuhUFwvXA in Pygame
 * https://www.youtube.com/watch?v=jO6qQDNa2UY in 90 Minutes - For beginners
 * youtube.com/Python Final Fantasy Style RPG Battle Beginner Tutorial in Pygame
+* https://www.youtube.com/watch?v=8J8wWxbAdFg
 
 ### Images (png)
 https://www.flaticon.com

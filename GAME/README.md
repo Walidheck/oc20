@@ -41,9 +41,12 @@ MERCI !
 
 ## Collaboration
 Pour pouvoir accomplir notre travail, nous avons décidé de collaborer avec un autre groupe afin d'avoir un maximum de connaissance à notre disposition. L'autre groupe n'est autre que celui de Louna Vizioz et Sarah Marcoz. Cela a été très utile pour avoir une bonne base pour la création de notre jeu.
- 
+
+
 ## Inspiration
-Pour space invasion, nous nous sommes inspiré de different youtubers et sites. Pour commencer, nous sommes allés voir sur le site pygame.org pour voir quel type de jeux nous allions crée. Une fois l'idée globale en tête, nous sommes allés voir sur youtube les differentes structures, pour mener à bien notre projet, nous avons trouvé ainsi la video ci-présente : https://www.youtube.com/watch?v=8J8wWxbAdFg Créer un jeu en python (1/10) par le youtuber Graven.  Biensur, d'autres videos ont été visionnées, ces dernères sont mentionnées sous la section sources.
+Pour space invasion, nous nous sommes inspirés de différents youtubers et sites. Pour commencer, nous sommes allés voir sur le site pygame.org pour voir quel type de jeux nous allions créer. Une fois l'idée globale en tête, nous sommes allés voir sur youtube les différentes structures, pour mener à bien notre projet. Nous nous sommes ainsi appuyé sur des videos et tutoriel pour nous permettre de créer un réel "jeu".
+
+Mener à bien ce projet fut une tâche difficile car nos connaissances aquises ne nous permettes pas de créer un jeu sans inspirations/appuis extérieurs. 
 
 Nous avons essayer de vous présenter le jeu de manière à la fois globale et précise,
 MERCI !
@@ -59,7 +62,7 @@ MERCI !
 * https://www.youtube.com/watch?v=1aGuhUFwvXA in Pygame
 * https://www.youtube.com/watch?v=jO6qQDNa2UY in 90 Minutes - For beginners
 * youtube.com/Python Final Fantasy Style RPG Battle Beginner Tutorial in Pygame
-* https://www.youtube.com/watch?v=8J8wWxbAdFg
+* https://www.youtube.com/watch?v=8J8wWxbAdFg créer un jeu en python par le youtuber Graven
 
 ### Images (png)
 https://www.flaticon.com

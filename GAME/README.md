@@ -35,6 +35,10 @@ Afin de mieux comprendre la structure des classe, voici un schéma de ces derni�
 
 ![Below sleeping surface](IMG/diagram.png)
 
+
+Nous avons essayer de vous présenter le jeu de manière à la fois globale et précise,
+MERCI !
+
 ## Collaboration
 Pour pouvoir accomplir notre travail, nous avons décidé de collaborer avec un autre groupe afin d'avoir un maximum de connaissance à notre disposition. L'autre groupe n'est autre que celui de Louna Vizioz et Sarah Marcoz. Cela a été très utile pour avoir une bonne base pour la création de notre jeu.
  
@@ -64,6 +68,5 @@ http://www.universal-soundbank.com
 
 
 
-Nous avons essayer de vous présenter le jeu de manière à la fois globale et précise,
-MERCI !
+
 

@@ -44,7 +44,7 @@ Pour pouvoir accomplir notre travail, nous avons décidé de collaborer avec un 
 
 
 ## Inspiration
-Pour space invasion, nous nous sommes inspirés de différents youtubers et sites. Pour commencer, nous sommes allés voir sur le site pygame.org pour voir quel type de jeux nous allions créer. Une fois l'idée globale en tête, nous sommes allés voir sur youtube les différentes structures, pour mener à bien notre projet. Nous nous sommes ainsi appuyé sur des videos et tutoriel pour nous permettre de créer un réel "jeu".
+Pour space invasion, nous nous sommes inspirés de différents youtubers et sites. Pour commencer, nous sommes allés voir sur le site pygame.org pour voir quel type de jeux nous allions créer. Une fois l'idée globale en tête, nous sommes allés voir sur youtube les différentes structures pour mener à bien notre projet. Nous nous sommes ainsi appuyé sur des videos et tutoriel pour nous permettre de créer un réel "jeu".
 
 Mener à bien ce projet fut une tâche difficile car nos connaissances aquises ne nous permettes pas de créer un jeu sans inspirations/appuis extérieurs. 
 
